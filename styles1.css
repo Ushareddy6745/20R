@@ -1,4 +1,8 @@
-
+body{
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpd39SdDurtxl7bGWcEult9Rpu_8bQV296Tw&s);
+  background-size: contain;
+  background-position: fixed;
+}
 
 .html {
   font-size: 62.5%;
